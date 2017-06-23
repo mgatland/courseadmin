@@ -1,0 +1,28 @@
+user signs up on the website
+    |
+    |
+   \ /
+    v
+check if there is space in the course
+
+    |
+    |
+   \ /
+    v
+
+Add them to course list
+email them a response
+send invoice to them + our records
+website response
+
+OR
+add them to the waiting list
+email them a response
+website response
+
+
+
+Admin tool:
+Create a new course
+delete student
+promote waitlist student
